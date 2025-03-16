@@ -1,0 +1,10 @@
+C:\Users\Nastya\source\repos\ModularConsole\ModularConsole\bin\Debug\ModularConsole.exe.config
+C:\Users\Nastya\source\repos\ModularConsole\ModularConsole\bin\Debug\ModularConsole.exe
+C:\Users\Nastya\source\repos\ModularConsole\ModularConsole\bin\Debug\ModularConsole.pdb
+C:\Users\Nastya\source\repos\ModularConsole\ModularConsole\obj\Debug\ModularConsole.csproj.AssemblyReference.cache
+C:\Users\Nastya\source\repos\ModularConsole\ModularConsole\obj\Debug\ModularConsole.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\source\repos\ModularConsole\ModularConsole\obj\Debug\ModularConsole.exe
+C:\Users\Nastya\source\repos\ModularConsole\ModularConsole\obj\Debug\ModularConsole.pdb
+C:\Users\Nastya\source\repos\ModularConsole\ModularConsole\bin\Debug\ModularLibrary.dll
+C:\Users\Nastya\source\repos\ModularConsole\ModularConsole\bin\Debug\ModularLibrary.pdb
+C:\Users\Nastya\source\repos\ModularConsole\ModularConsole\obj\Debug\ModularC.5A78A558.Up2Date

@@ -1,0 +1,6 @@
+C:\Users\Nastya\source\repos\ModularLibrary\ModularLibrary\bin\Debug\ModularLibrary.dll
+C:\Users\Nastya\source\repos\ModularLibrary\ModularLibrary\bin\Debug\ModularLibrary.pdb
+C:\Users\Nastya\source\repos\ModularLibrary\ModularLibrary\obj\Debug\ModularLibrary.csproj.AssemblyReference.cache
+C:\Users\Nastya\source\repos\ModularLibrary\ModularLibrary\obj\Debug\ModularLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\source\repos\ModularLibrary\ModularLibrary\obj\Debug\ModularLibrary.dll
+C:\Users\Nastya\source\repos\ModularLibrary\ModularLibrary\obj\Debug\ModularLibrary.pdb
